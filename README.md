@@ -30,4 +30,3 @@ areas requiring cost or pricing optimization.
 ## 🛠 Tools & Technologies
 - Tableau Public
 - Excel / CSV (Sample Superstore dataset)
-https://public.tableau.com/app/profile/hetal.ganatra/viz/SalesProfitLossInsights20142017/SalesProfitLossInsights20142017
