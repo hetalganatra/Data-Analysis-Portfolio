@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analysis Dashboard (2014–2017)
+# 📊 Sales, Profit, Loss Analysis Dashboard (2014–2017)
 
 🔗 **Live Tableau Dashboard (Tableau Public):**  
 https://public.tableau.com/views/SalesProfitLossInsights20142017/SalesProfitLossInsights20142017
